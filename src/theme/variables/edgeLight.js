@@ -120,6 +120,8 @@ export const edgeLight: Theme = {
   // dangerButton: palette.accentRed,
   // dangerButtonText: palette.white,
 
+  buttonBoxShadow: palette.black,
+
   // cardBackground: palette.white,
   // cardShadow: palette.blackOp25,
 
